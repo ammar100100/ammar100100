@@ -8,17 +8,18 @@ I’m a frontend developer with over 4 years of experience. I specialize in crea
 React, HTML, CSS, and JavaScript.
 I love turning ideas into beautiful and functional designs that work perfectly on any device. Right now, I’m focused on improving my JavaScript skills and exploring advanced frontend techniques.
 
-  <p align="left">
+<p align="left">
    <a href="https://www.linkedin.com/in/ammar-yasser-14992333b/">
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a> 
-   <a href="#">
+   <a href="https://github.com/WebGlow?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-    <a href="https://www.linkedin.com/in/ammar-yasser-14992333b/">
-      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> 
+   <a href="https://github.com/WebGlow?tab=repositories">
+      <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/WebGlow?color=grey&style=for-the-badge&labelColor=444444&logo=repo"/>
+   </a>
 </p>
+
 
 
 ---
