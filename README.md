@@ -9,10 +9,10 @@ React, HTML, CSS, and JavaScript.
 I love turning ideas into beautiful and functional designs that work perfectly on any device. Right now, I’m focused on improving my JavaScript skills and exploring advanced frontend techniques.
 
   <p align="left">
-   <a href="https://www.linkedin.com/in/your-linkedin-profile">
+   <a href="h[ttps://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ammar-yasser-14992333b/)">
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a> 
-   <a href="https://github.com/WebGlow?tab=followers">
+   <a href="#">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow?tab=repositories&sort=stargazers">
