@@ -14,21 +14,22 @@ I love turning ideas into beautiful and functional designs that work perfectly o
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a> 
    <a href="https://github.com/WebGlow?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow?tab=repositories">
-      <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/WebGlow?color=grey&style=for-the-badge&labelColor=444444&logo=repo&logoColor=white"/>
+      <img alt="repositories" title="Total repositories on GitHub" src="https://img.shields.io/github/repos/WebGlow?color=grey&style=for-the-badge&logo=repo&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow/issues">
-      <img alt="open issues" title="Open issues on GitHub" src="https://custom-icon-badges.demolab.com/github/issues/WebGlow?color=red&style=for-the-badge&labelColor=cc4c39&logo=issue-opened&logoColor=white"/>
+      <img alt="open issues" title="Open issues on GitHub" src="https://img.shields.io/github/issues/WebGlow?color=red&style=for-the-badge&labelColor=cc4c39&logo=github&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow/pulls">
-      <img alt="open pull requests" title="Open pull requests on GitHub" src="https://custom-icon-badges.demolab.com/github/pulls/WebGlow?color=purple&style=for-the-badge&labelColor=9b4f96&logo=pull-request&logoColor=white"/>
+      <img alt="open pull requests" title="Open pull requests on GitHub" src="https://img.shields.io/github/issues-pr/WebGlow?color=purple&style=for-the-badge&labelColor=9b4f96&logo=github&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow/commits">
-      <img alt="commits" title="Total commits on GitHub" src="https://custom-icon-badges.demolab.com/github/commits/WebGlow?color=green&style=for-the-badge&labelColor=5c9f5d&logo=git-commit&logoColor=white"/>
+      <img alt="commits" title="Total commits on GitHub" src="https://img.shields.io/github/commits-since/WebGlow/main?color=green&style=for-the-badge&labelColor=5c9f5d&logo=git&logoColor=white"/>
    </a>
 </p>
+
 
 
 
