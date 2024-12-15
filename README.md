@@ -15,7 +15,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow?tab=repositories">
-      <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/WebGlow?color=grey&style=for-the-badge&labelColor=444444&logo=repo"/>
+      <img alt="repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/github/repositories/WebGlow?color=grey&style=for-the-badge&labelColor=444444&logo=repo&logoColor=white"/>
    </a>
    <a href="https://github.com/WebGlow/issues">
       <img alt="open issues" title="Open issues on GitHub" src="https://custom-icon-badges.demolab.com/github/issues/WebGlow?color=red&style=for-the-badge&labelColor=cc4c39&logo=issue-opened&logoColor=white"/>
@@ -27,6 +27,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
       <img alt="commits" title="Total commits on GitHub" src="https://custom-icon-badges.demolab.com/github/commits/WebGlow?color=green&style=for-the-badge&labelColor=5c9f5d&logo=git-commit&logoColor=white"/>
    </a>
 </p>
+
 
 
 
