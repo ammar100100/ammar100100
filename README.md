@@ -7,6 +7,8 @@
 I’m a frontend developer with over 4 years of experience. I specialize in creating modern and user-friendly websites using 
 React, HTML, CSS, and JavaScript.
 I love turning ideas into beautiful and functional designs that work perfectly on any device. Right now, I’m focused on improving my JavaScript skills and exploring advanced frontend techniques.
+
+
 <p align="left">
    <a href="https://www.linkedin.com/in/ammar-yasser-14992333b/">
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +29,6 @@ I love turning ideas into beautiful and functional designs that work perfectly o
       <img alt="commits" title="Total commits on GitHub" src="https://custom-icon-badges.demolab.com/github/commits/WebGlow?color=green&style=for-the-badge&labelColor=5c9f5d&logo=git-commit&logoColor=white"/>
    </a>
 </p>
-
 
 
 
