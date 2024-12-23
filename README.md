@@ -68,7 +68,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
  <summary><h3>👨‍💻Ammar's Coding Journey</h3></summary>
     started my coding journey as a curious learner, diving headfirst into HTML and CSS with the dream of creating beautiful websites. What started as a hobby quickly became a passion, and I began taking on real-world projects, designing websites for industries like restaurants, travel companies, and dental clinics.
 
-As my skills grew, I discovered JavaScript, and it opened up a whole new world of possibilities. I’m now focusing on mastering React to build dynamic and interactive user experiences. Along the way, I’ve learned the importance of constantly challenging myself and pushing my limits to grow as a developer.
+As my skills grew, I discovered JavaScript, opening up a new world of possibilities. I’m now focusing on mastering React to build dynamic and interactive user experiences. Along the way, I’ve learned the importance of constantly challenging myself and pushing my limits to grow as a developer.
 
 My dream? To be a master frontend developer who creates standout websites that make a real impact. To achieve this, I’m dedicating myself to daily practice, sharing my work on GitHub, and learning from every challenge.
 
