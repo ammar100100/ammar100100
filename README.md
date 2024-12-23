@@ -6,7 +6,7 @@
 
 I’m a frontend developer with over 4 years of experience. I specialize in creating modern and user-friendly websites using 
 React, HTML, CSS, and JavaScript.
-I love turning ideas into beautiful and functional designs that work perfectly on any device. Right now, I’m focused on improving my JavaScript skills and exploring advanced frontend techniques.
+I love turning ideas into beautiful and functional designs that work perfectly on any device. I’m currently focused on improving my JavaScript skills and exploring advanced frontend techniques.
 
 
 <p align="left">
