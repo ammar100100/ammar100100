@@ -62,6 +62,77 @@ I love turning ideas into beautiful and functional designs that work perfectly o
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+
+
+
+
+
+
+
+
+# Hi there, I'm Ammar! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=ammar100100)
+
+## 🚀 About Me
+
+I'm a passionate developer with a keen interest in web development, data science, and open-source projects. I love to learn new technologies and share my knowledge with the community.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+- **Databases:** MySQL, MongoDB
+
+## 📈 GitHub Stats
+
+![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammar100100&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar100100&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+## 🔗 Links
+
+- [Portfolio](https://your-portfolio-link.com)
+- [Blog](https://your-blog-link.com)
+
+## 🌟 Projects
+
+Here are a few projects I've worked on:
+
+- [Project 1](https://github.com/ammar100100/project1) - A brief description of what this project does.
+- [Project 2](https://github.com/ammar100100/project2) - A brief description of what this project does.
+- [Project 3](https://github.com/ammar100100/project3) - A brief description of what this project does.
+
+Feel free to check out my repositories for more projects and contributions!
+
+## 📜 Recent Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+_**Note:** This section will be automatically updated with your latest blog posts if you use a GitHub Action._
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
+
+
+
+
+
+
+
+
+
+
+
 #
 <!--
 <details>
