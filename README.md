@@ -1,11 +1,21 @@
-# Hi there, I'm Ammar! 👋
+# 🏄‍♂️ Ammar yasser
 
-![Profile Views](https://komarev.com/ghpvc/?username=ammar100100)
+**`WEB DEVELOPER`**
 
-## 🚀 About Me
+’m Ammar! 👋
 
-I'm a passionate developer with a keen interest in web development, data science, and open-source projects. I love to learn new technologies and share my knowledge with the community.
+I’m a frontend developer with over 4 years of experience. I specialize in creating modern and user-friendly websites using 
+React, HTML, CSS, and JavaScript.
+I love turning ideas into beautiful and functional designs that work perfectly on any device. I’m currently focused on improving my JavaScript skills and exploring advanced frontend techniques.
 
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/ammar-yasser-14992333b/">
+      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a> 
+   <a href="">
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, HTML, CSS
@@ -83,24 +93,7 @@ Thank you for visiting my profile! Have a great day! 😊
 
 
 
-# 🏄‍♂️ Ammar yasser
 
-**`WEB DEVELOPER`**
-
-’m Ammar! 👋
-
-I’m a frontend developer with over 4 years of experience. I specialize in creating modern and user-friendly websites using 
-React, HTML, CSS, and JavaScript.
-I love turning ideas into beautiful and functional designs that work perfectly on any device. I’m currently focused on improving my JavaScript skills and exploring advanced frontend techniques.
-
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/ammar-yasser-14992333b/">
-      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> 
-   <a href="">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
