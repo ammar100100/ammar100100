@@ -23,16 +23,16 @@ I love turning ideas into beautiful and functional designs that work perfectly o
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, Docker, VS Code
 - **Databases:** MySQL, MongoDB
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📈 GitHub Stats
 
 ![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammar100100&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammar100100&layout=compact&theme=radical)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📫 How to reach me
 
-- [Email](mailto:your-email@example.com)
+- [Email](ammaryasserrtx504@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-handle)
 
@@ -40,7 +40,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
 
 - [Portfolio](https://your-portfolio-link.com)
 - [Blog](https://your-blog-link.com)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 🌟 Projects
 
 Here are a few projects I've worked on:
@@ -96,7 +96,7 @@ Feel free to check out my repositories for more projects and contributions!
 
 
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
@@ -148,7 +148,7 @@ Feel free to check out my repositories for more projects and contributions!
 
 
 
-#
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--
 <details>
  <summary><h3>👨‍💻Ammar's Coding Journey</h3></summary>
@@ -164,3 +164,4 @@ This is just the beginning of my journey, and I’m excited for what’s ahead. 
 
 
 [website]: 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
