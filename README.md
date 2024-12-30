@@ -1,4 +1,3 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 🏄‍♂️ Ammar yasser
 
 **`WEB DEVELOPER`**
@@ -40,7 +39,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
 
 - [Portfolio](https://your-portfolio-link.com)
 - [Blog](https://your-blog-link.com)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+- 
 ## 🌟 Projects
 
 Here are a few projects I've worked on:
