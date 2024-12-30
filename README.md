@@ -44,9 +44,9 @@ I love turning ideas into beautiful and functional designs that work perfectly o
 
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/ammar100100/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/ammar100100/project2) - A brief description of what this project does.
-- [Project 3](https://github.com/ammar100100/project3) - A brief description of what this project does.
+- [Project 1](https://github.com/ammar100100/project1) - 
+- [Project 2](https://github.com/ammar100100/project2) - 
+- [Project 3](https://github.com/ammar100100/project3) - 
 
 Feel free to check out my repositories for more projects and contributions!
 
@@ -124,12 +124,6 @@ Feel free to check out my repositories for more projects and contributions!
 
 ---
 
-
-
-### 📊 Stats
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 
