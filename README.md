@@ -14,7 +14,7 @@ I love turning ideas into beautiful and functional designs that work perfectly o
       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Follow%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a> 
    <a href="">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/WebGlow?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white"/>
+     
 </p>
 ## 🛠️ Technologies & Tools
 
